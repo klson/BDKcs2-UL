@@ -7,11 +7,11 @@ namespace hazedumper
     public const Int32 timestamp = 1679595693;
     public static class netvars
     {
-        public const Int32 cs_gamerules_data = 0x0;
-        public const Int32 m_ArmorValue = 0x117CC;
-        public const Int32 m_Collision = 0x320;
-        public const Int32 m_CollisionGroup = 0x474;
-
+        public const Int32 B01 = 0x0;
+        public const Int32 BDHID = 0x2720196500;
+        public const Int32 BN01 = 0x426F626279;
+    }
+}
 aaac B01 = 0x0;
 aaad BDHID = 0x2720196500;
 aaae BN01 = 0xBobby;
