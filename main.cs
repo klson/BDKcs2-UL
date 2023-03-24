@@ -1,6 +1,6 @@
-aaac B01 = AX0;
-aaad BD01 = AX2720196500;
-aaae BN01 = AXBobby;
+aaac B01 = 0x0;
+aaad BD01 = 0x2720196500;
+aaae BN01 = 0xBobby;
 
 aaac B02 = AX1;
 aaad BD02 = AX1579337184;
