@@ -1,0 +1,8 @@
+# Ignore Visual Studio-specific files
+*.vsidx
+*.suo
+*.user
+*.vcxproj.user
+x64/
+build/
+.vs/
